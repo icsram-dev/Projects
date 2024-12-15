@@ -1,0 +1,12 @@
+{
+  "name": "cli-todo-app",
+  "version": "1.0.0",
+  "description": "This is a project weeek project at Progmatic bootcamp",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "author": "Benda Péter - Progmatic",
+  "license": "ISC"
+}

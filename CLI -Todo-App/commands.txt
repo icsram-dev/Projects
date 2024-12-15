@@ -1,0 +1,16 @@
+CLI Todo App Commands
+---------------------
+SYNOPSIS
+    todo [option] [id] [text]
+
+OPTIONS
+    -list, -l
+        Lists existing tasks
+    -add, -a
+        Adds a task to the list
+    -toggle, -t
+        Compleates or uncompleates a task
+    -update, -u
+        Updates a specific todo text
+    -delete, -d
+        Deletes a specific task
